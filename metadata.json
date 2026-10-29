@@ -1,0 +1,6 @@
+{
+  "name": "AK SMM Panel - #1 SMM Reseller Panel Pakistan",
+  "description": "AK SMM Panel (cheappakpanel.com) - Separate User Website & Standalone /admin Control Panel with EasyPaisa, JazzCash (Kaleem Ullah 03338831737), and API v2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
